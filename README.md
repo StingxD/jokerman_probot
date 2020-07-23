@@ -1,2 +1,3 @@
-# jokerman_probot
-I AM A GROUP MANAGER BOT 
+# JokerMan_probot
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StingxD/JokerMan_ProBot.git)
