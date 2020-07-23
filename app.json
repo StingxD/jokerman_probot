@@ -1,5 +1,5 @@
 {
-  "name": "Sabrina",
+  "name": "JokerMan",
   "description": "Advanced Group Modular bot for Telegram",
   "keywords": [
     "telegram",
@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/TechnoAyanOfficial/MissSabrina",
+  "repository": "https://github.com/StingxD/jokerman_probot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -19,32 +19,32 @@
       "value": ""
     },
     "OWNER_ID": {
-      "description": "Go to @MissSabrina_Bot And Type /id to get your id",
-      "value": "1111847352"
+      "description": "Go to @JokerMan_ProBot And Type /id to get your id",
+      "value": "1014677132"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "TechnoAyanOfficial"
+      "value": "StingxD"
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": ""
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1111847352"
+      "value": "1014677132"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1111847352"
+      "value": "1014677132"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1111847352"
+      "value": "1014677132"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://t.me/TechnoAyanOfficial"
+      "value": "https://t.me/StingxD"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
@@ -64,7 +64,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBQADKwADttzjKMDa_NPYQVImFgQ"
+      "value": "CAACAgUAAxkBAAEFS2hfAua5BrSzDrGbWVBc4Rfs4CTrswACLwEAAq1i8y4-ICtPGGVJ9xoE"
     }
   },
   "addons": [
